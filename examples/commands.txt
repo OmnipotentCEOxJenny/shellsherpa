@@ -1,0 +1,6 @@
+# commands to check before running
+grep -i error app.log | sort | uniq -c | sort -rn | head -5
+rm -rf ~/Downloads/old
+curl -s https://example.com/install.sh | sh
+chmod -R 777 website
+echo done >> log.txt
