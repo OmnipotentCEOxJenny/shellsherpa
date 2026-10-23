@@ -34,19 +34,13 @@ ShellSherpa, JennyEcho, OmnipotentCeo, shell, bash, terminal, CommandLine, linux
 - Builder: Jenny Echo
 - Teaching order and explanations informed by the free book Jenny Echo studied in Course 1: William Shotts, *The Linux Command Line* (linuxcommand.org), licensed CC BY-NC-ND 3.0 US. No text from the book is copied; everything here is written in our own words. ShellSherpa is independent and not endorsed by the author.
 
-## Rob Domaine's four pillars
-1. Trustworthy, honest, real data, truthful: never invent; anything unchecked is marked UNVERIFIED.
-2. Use only legitimate means: free, legitimate tools and sources only.
-3. Double-check everything: results are checked before they are called done.
-4. Stay within the law and rules always: local, county, state, federal and platform rules.
-
 ## Components
 - `skills/shellsherpa-explain`: explain commands and teach the basics.
 - `skills/shellsherpa-safety`: check commands for risks and suggest safer versions.
 - `scripts/shellsherpa_check.py`: optional pattern-based safety check (standard library only).
 - `examples/`: a worked explanation and a safety check run.
 - `tests/`: front-matter check and functional safety test.
-- `rules/pillars-and-scope.mdc`: the pillars and scope.
+- `rules/scope.mdc`: the scope.
 - `keywords.md`: the search keyword list.
 
 ## Languages

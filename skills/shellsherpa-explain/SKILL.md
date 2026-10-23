@@ -3,7 +3,7 @@ name: shellsherpa-explain
 description: Explain a shell command or pipeline piece by piece in plain words, and teach shell and Linux basics. Use when a user asks what a terminal command does, how a pipeline works, or wants to learn the command line.
 ---
 
-Follow `rules/pillars-and-scope.mdc`. Answer in the user's language and in plain words.
+Follow `rules/scope.mdc`. Answer in the user's language and in plain words.
 
 1. Split the command at pipes (`|`), `&&`, `;` and redirections (`>`, `>>`, `<`, `2>`).
 2. Explain each piece in one plain sentence: the command, then each option, then what goes in and what comes out.
