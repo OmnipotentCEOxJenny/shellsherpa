@@ -1,7 +1,7 @@
 {
   "name": "shellsherpa",
   "displayName": "ShellSherpa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Free helper that lets your AI assistant explain terminal commands in plain words, teach Linux step by step, and warn you before you run anything that could delete or overwrite your files.",
   "author": {
     "name": "Rob Domaine / Omnipotent Media LLC"
